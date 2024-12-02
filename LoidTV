@@ -64,3 +64,19 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="CBS" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/1874/419833-319217/a4df4ef049b119253c9833bea8ed6515.jpg", CBS Sports Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/7812?checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/9b35be35d9c1a468c6f388c90b5be1f9.png", Peacock | WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/1079575?checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/9b35be35d9c1a468c6f388c90b5be1f9.png", Peacock | Premier League TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/1079574?checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/9b35be35d9c1a468c6f388c90b5be1f9.png",  Peacock | NBC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/1079573?checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Peacock" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/9b35be35d9c1a468c6f388c90b5be1f9.png", Peacock | USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/277390?checkedby:alliptvlinks.com

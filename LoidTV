@@ -80,3 +80,15 @@ http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/1079573?checkedby
 #EXTINF:-1 group-title="Peacock" tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/9b35be35d9c1a468c6f388c90b5be1f9.png", Peacock | USA Network (VPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/277390?checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Diema Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/1200px-DiemaSport-logo.svg.png", Diema Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/12709?checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Diema Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png", Diema Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/12762?checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Diema Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png", Diema Sport 2 (Dự phòng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+http://618545651815256526.ofdp1112.xyz:80/play/te817470/4r4VxsCg4h/256526.ts?checkedby:alliptvlinks.com

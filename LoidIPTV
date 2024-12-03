@@ -38,6 +38,11 @@ http://thvip.site/vtv9/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/374976511_7023812370964091_5532155053342110080_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=pVDYUqsaUQMQ7kNvgEm52ye&_nc_zt=23&_nc_ht=scontent.fdad1-3.fna&_nc_gid=AThiML7B2LU0gKgHdrtYc_1&oh=00_AYAyQSCjb7_qwPDA99WFkGtziFwRXqEYc6qQpFyQ9rA9DQ&oe=671D17B2", KuboLive
 #http://kblivechannel-cdn3.volam.pro:18111/live/kubolive_channel_2.stream/index.m3u8?pini=sv3.localhost.ini
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.pixabay.com/photo/2023/04/22/04/40/live-streaming-7943006_1280.png", AFC Champions League Two | FC Istiklol v Foolad Mobarakeh Sepahan SC
+https://tth.vn/QmKY
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.pixabay.com/photo/2023/04/22/04/40/live-streaming-7943006_1280.png", AFC Champions League Two | Al Wehdat - Sharjah FC
+https://tth.vn/lHpf
+
 #EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLaSAj5UInZ-C3I2Kru0MfocBFD1rJFakuA&s", [UK] Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 http://cord-cutter.net:8080/zcJ8BG/214917/137720?checkedby:alliptvlinks.com

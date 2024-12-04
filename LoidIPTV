@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="In4" tvg-logo="https://m.media-amazon.com/images/I/61oJQApbXkL.jpg", Intro
-https://live-cdn03.volam.pro:8443/pini=vtvcab36.ini/Ex3AKnB0rAYxLpNpE3iVhw/1733325637/vtv1/v3_index.m3u8
+https://github.com/LoidTV/ListIPTV/raw/refs/heads/main/t%20ch%E1%BB%89%20%C4%91%E1%BB%83%20%C3%BD%20k%C3%AAnh%20mov%20(1).mp4
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền hình trong nước" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0

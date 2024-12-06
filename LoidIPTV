@@ -186,41 +186,231 @@ https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/17285
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD1" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 1 HD1
-http://mirasat.info:8000/7897897890/7897897890/161216
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD1" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 2 HD1
-http://mirasat.info:8000/7897897890/7897897890/161215
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD1" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 3 HD1
-http://mirasat.info:8000/7897897890/7897897890/161214
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD1" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 4 HD1
-http://mirasat.info:8000/7897897890/7897897890/161213
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD1" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 5 HD1
-http://mirasat.info:8000/7897897890/7897897890/161212
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD1" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 6 HD1
-http://mirasat.info:8000/7897897890/7897897890/161211
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD1" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 7 HD1
-http://mirasat.info:8000/7897897890/7897897890/161210
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD1" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 8 HD1
-http://mirasat.info:8000/7897897890/7897897890/161209
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD1" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="bein SPORTS HD 1 (جودة عالية)",beIN SPORTS 9 HD1
-http://mirasat.info:8000/7897897890/7897897890/161208
-#EXTINF:-1 tvg-id="" tvg-name="وش في وش" tvg-logo="https://image.tmdb.org/t/p/w500/dArWOecbhfPlp86rS448npv7xZn.jpg" group-title="Arabic Movies 2023",وش في وش
-http://mirasat.info:8000/movie/7897897890/7897897890/161223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="https://prod-media.beinsports.com/image/f50c7035e532c49a0f6993d988e2e843.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 1 FHD
-http://mirasat.info:8000/7897897890/7897897890/161253
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://prod-media.beinsports.com/image/4fbe073f17f161810fdf3dab1307b30f.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 2 FHD
-http://mirasat.info:8000/7897897890/7897897890/161252
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="https://prod-media.beinsports.com/image/94130ea17023c4837f0dcdda95034b65.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 3 FHD
-http://mirasat.info:8000/7897897890/7897897890/161251
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 4 FHD
-http://mirasat.info:8000/7897897890/7897897890/161250
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 5 FHD
-http://mirasat.info:8000/7897897890/7897897890/161249
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 FHD" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 6 FHD
-http://mirasat.info:8000/7897897890/7897897890/161248
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 FHD" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 7 FHD
-http://mirasat.info:8000/7897897890/7897897890/161247
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 FHD" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 8 FHD
-http://mirasat.info:8000/7897897890/7897897890/161246
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 FHD" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.128.png" group-title="bein SPORTS FHD (جودة عالية جدا)",beIN SPORTS 9 FHD
-http://mirasat.info:8000/7897897890/7897897890/161245
+#EXTINF:0,##### UK - TNT SPORTS #####
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/325431
+#EXTINF:0,UK - TNT SPORTS 1 FHD : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17281
+#EXTINF:0,UK - TNT SPORT 1 HEVC
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/846012
+#EXTINF:0,UK -  TNT SPORTS 1 HD : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348297
+#EXTINF:0,UK - TNT SPORTS 2 FHD : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/980406
+#EXTINF:0,UK - TNT SPORT 2 HEVC
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/846013
+#EXTINF:0,UK - TNT SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17280
+#EXTINF:0,UK -  TNT SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348298
+#EXTINF:0,UK - TNT SPORTS 3 FHD 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/980407
+#EXTINF:0,UK - TNT SPORT 3 HEVC
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/846014
+#EXTINF:0,UK - TNT SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17279
+#EXTINF:0,UK - TNT SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348299
+#EXTINF:0,UK - TNT SPORTS 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/311556
+#EXTINF:0,UK - TNT SPORT 4 HEVC
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/846015
+#EXTINF:0,UK - TNT SPORTS 4 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/311555
+#EXTINF:0,UK - TNT SPORTS 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/311558
+#EXTINF:0,UK - TNT Sport 5 HEVC
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/846016
+#EXTINF:0,UK - TNT SPORTS 5 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/311557
+#EXTINF:0,UK - TNT SPORTS 6 HD 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/980411
+#EXTINF:0,UK - TNT SPORTS 7 HD 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/980412
+#EXTINF:0,UK - TNT SPORTS 8 HD 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/980413
+#EXTINF:0,UK - TNT SPORTS 9 HD 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/980414
+#EXTINF:0,UK - TNT SPORTS 10 HD 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/980415
+#EXTINF:0,UK- TNT SPORTS | EVENT 1 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955971
+#EXTINF:0,UK- TNT SPORTS | EVENT 2 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955970
+#EXTINF:0,UK- TNT SPORTS | EVENT 3 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955969
+#EXTINF:0,UK- TNT SPORTS | EVENT 4 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955968
+#EXTINF:0,UK- TNT SPORTS | EVENT 5
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955967
+#EXTINF:0,UK- TNT Sports | Event 6 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955966
+#EXTINF:0,UK- TNT SPORTS | EVENT 7 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955965
+#EXTINF:0,UK- TNT Sports | Event 8 :
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955964
+#EXTINF:0,UK- TNT SPORTS | EVENT 8 :
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955963
+#EXTINF:0,UK- TNT SPORTS | EVENT 10 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955962
+#EXTINF:0,UK- TNT SPORTS | EVENT 11 :  
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955961
+#EXTINF:0,UK- TNT SPORTS | EVENT 12 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955960
+#EXTINF:0,UK- TNT SPORTS | EVENT 13 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955959
+#EXTINF:0,UK- TNT SPORTS | EVENT 14 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955958
+#EXTINF:0,UK- TNT Sports | Event 15 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955957
+#EXTINF:0,UK- TNT SPORTS | EVENT 16 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955956
+#EXTINF:0,UK- TNT SPORTS | EVENT 17 : 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955955
+#EXTINF:0,UK- TNT SPORTS | EVENT 18 :
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/955954
+#EXTINF:0,##### UK - SKY SPORTS #####
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/325432
+#EXTINF:0,UK - SKY SPORTS+ FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/973137
+#EXTINF:0,UK - Sky Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/973139
+#EXTINF:0,UK - SKY SPORTS PREMIER LEAGUE FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17285
+#EXTINF:0,UK - SKY SPORTS PREMIER LEAGUE HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/365044
+#EXTINF:0,UK -  SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348317
+#EXTINF:0,UK - SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348318
+#EXTINF:0,UK - SKY SPORTS MAIN EVENT FHD: 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17286
+#EXTINF:0,UK - SKY SPORTS MAIN EVENT HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348315
+#EXTINF:0,UK - SKY SPORTS MAIN EVENT HD 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/365037
+#EXTINF:0,UK - SKY SPORTS MAIN EVENT SD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348316
+#EXTINF:0,UK - SKY SPORTS FOOTBALL FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17288
+#EXTINF:0,UK - SKY SPORTS FOOTBALL HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/365035
+#EXTINF:0,UK -  SKY SPORTS FOOTBALL
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348319
+#EXTINF:0,UK - SKY SPORTS FOOTBALL
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348320
+#EXTINF:0,UK - SKY SPORTS TENNIS FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/664451
+#EXTINF:0,UK - SKY SPORTS TENNIS HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/664452
+#EXTINF:0,UK - SKY SPORTS RACING FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/304708
+#EXTINF:0,UK - SKY SPORTS RACING HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348311
+#EXTINF:0,UK - SKY SPORTS RACING SD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348312
+#EXTINF:0,UK - SKY SPORTS CRICKET FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17290
+#EXTINF:0,UK - SKY SPORTS CRICKET HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348307
+#EXTINF:0,UK - SKY SPORTS CRICKET SD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348308
+#EXTINF:0,UK - SKY SPORTS GOLF FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17287
+#EXTINF:0,UK - SKY SPORTS GOLF HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348304
+#EXTINF:0,UK - SKY SPORTS GOLF SD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348303
+#EXTINF:0,UK - SKY SPORTS ARENA FHD: 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17291
+#EXTINF:0,UK - SKY SPORTS ARENA HD: 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348309
+#EXTINF:0,UK - SKY SPORTS ARENA SD: 
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348310
+#EXTINF:0,UK - SKY SPORTS MIX FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17284
+#EXTINF:0,UK - SKY SPORTS MIX HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348313
+#EXTINF:0,UK - SKY SPORTS MIX SD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348314
+#EXTINF:0,UK - SKY SPORTS NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17283
+#EXTINF:0,UK - SKY SPORTS NEWS
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348323
+#EXTINF:0,UK -  SKY SPORTS NEWS
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/348324

@@ -43,6 +43,11 @@ http://thvip.site/vtv9/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/17286
 
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg", SKY SPORTS PREMIER LEAGUE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/17285
+
 #EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT85G9zzUXJECCXuZvgEBtJXnnb1SlhpVIw&s", [IT] Sky Sports F1 UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 #EXTVLCOPT:network-caching=1000

@@ -1,6 +1,7 @@
 #EXTINF:-1 group-title="In4" tvg-logo="https://m.media-amazon.com/images/I/61oJQApbXkL.jpg", Intro
 https://raw.githubusercontent.com/LoidTV/ListIPTV/refs/heads/main/O-Zone%20-%20Dragostea%20Din%20Tei%20%5BOfficial%20Video%5D_3.mp4
 
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền hình trong nước" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=2
@@ -37,6 +38,12 @@ http://thvip.site/vtv9/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/374976511_7023812370964091_5532155053342110080_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=pVDYUqsaUQMQ7kNvgEm52ye&_nc_zt=23&_nc_ht=scontent.fdad1-3.fna&_nc_gid=AThiML7B2LU0gKgHdrtYc_1&oh=00_AYAyQSCjb7_qwPDA99WFkGtziFwRXqEYc6qQpFyQ9rA9DQ&oe=671D17B2", KuboLive
 #http://kblivechannel-cdn3.volam.pro:18111/live/kubolive_channel_2.stream/index.m3u8?pini=sv3.localhost.ini
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png", ASEAN Championship TV360
+https://pop15-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzMzNzY5MjE4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xOTIvSExTX0NsZWFuX01ITF8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNiYzIzNTUyZmYxMjJmMWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovL1syNDAyOjgwMDo2MzYwOjY4Ojo2NF0iLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6WzM4MF19.DpZQoqYydN_oaD-vRSlfb5dmh6cQudOdnZVTgGID25L_OxZloBvGyIwgwDWT6QdLHiqGZfNxaxarae4A2cR9CA==/live/eds/192/HLS_Clean_MHL_2s/192-avc1_6499968=10003-mp4a_131600_eng=20000.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png", ASEAN Championship FPT Trung Lập
+https://live.fptplay53.net/channel/thethao109/playlist_25f_1080p25f1.m3u8
+
 
 #EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLaSAj5UInZ-C3I2Kru0MfocBFD1rJFakuA&s", [UK] Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57

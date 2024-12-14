@@ -44,6 +44,62 @@ http://thvip.site/vtv9/index.m3u8
 #EXTVLCOPT:network-caching=100
 http://samisat44.xyz:80/5XF88W5/A38UYQV/214133
 
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN Sports Xtra HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS LALIGA UHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72390
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72383
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS EN ESPANOL HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS 4 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72388
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS 5 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72387
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS 6 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72386
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS 7 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72385
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=28-06-2024?w=3840&q=75", BeIN SPORTS 8 HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72384
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png", GOL TV EN HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/148580
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png", GOL TV ES HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/148581
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg", FOX DEPORTES HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/71958
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg", FOX News LIVE NOW
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72332
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg", FOX SOCCER PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72330
+
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.careersinafrica.com/wp-content/uploads/2013/06/supersport-logo.png", SUPERSPORT FOOTBALL PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/252100
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.careersinafrica.com/wp-content/uploads/2013/06/supersport-logo.png", SUPERSPORT PREMIER LEAGUE HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/252098
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.careersinafrica.com/wp-content/uploads/2013/06/supersport-logo.png", SUPERSPORT LA LIGA HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/252099
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://www.careersinafrica.com/wp-content/uploads/2013/06/supersport-logo.png", SUPERSPORT FOOTBALL HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/252097
+
 
 #EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLaSAj5UInZ-C3I2Kru0MfocBFD1rJFakuA&s", [UK] Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57

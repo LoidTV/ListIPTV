@@ -209,6 +209,8 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/1069977
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069978
 #EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/Canal%2B_Live.svg", CANAL+ LIVE 19 FHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/1069979
 
 #EXTINF:0,UK - SKY SPORT+ 1
 #EXTVLCOPT:network-caching=1000
@@ -330,8 +332,6 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/975027
 #EXTINF:0,UK - SKY SPORT+ 40
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/975028
-#EXTVLCOPT:network-caching=1000
-http://samisat44.xyz:80/5XF88W5/A38UYQV/1069979
 
 #EXTINF:0,US - PEACOCK EVENT 01 HD : 
 #EXTVLCOPT:network-caching=1000

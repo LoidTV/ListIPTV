@@ -44,6 +44,14 @@ http://thvip.site/vtv9/index.m3u8
 #EXTVLCOPT:network-caching=100
 http://samisat44.xyz:80/5XF88W5/A38UYQV/214133
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/NBCUniversal_Peacock_Logo.svg", Peacock WWE
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/456068
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2175px-WWE_official_logo.svg.png", WWE Network HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/71942
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_de_la_Liga_Profesional_de_F%C3%BAtbol_de_Argentina.svg", Racing vs River Plate | Luồng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 #EXTVLCOPT:network-caching=100

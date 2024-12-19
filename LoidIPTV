@@ -224,12 +224,12 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/17286
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/17285
 
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT85G9zzUXJECCXuZvgEBtJXnnb1SlhpVIw&s", [IT] Sky Sports F1 UHD
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT85G9zzUXJECCXuZvgEBtJXnnb1SlhpVIw&s", [IT] Sky Sports F1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/76642
 
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT85G9zzUXJECCXuZvgEBtJXnnb1SlhpVIw&s", [UK] Sky Sports F1 FHD
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT85G9zzUXJECCXuZvgEBtJXnnb1SlhpVIw&s", [UK] Sky Sports F1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/17289

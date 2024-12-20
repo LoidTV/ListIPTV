@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="In4" tvg-logo="https://m.media-amazon.com/images/I/61oJQApbXkL.jpg", Intro
-https://raw.githubusercontent.com/LoidTV/ListIPTV/refs/heads/main/O-Zone%20-%20Dragostea%20Din%20Tei%20%5BOfficial%20Video%5D_3.mp4
-
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền hình trong nước" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0

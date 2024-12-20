@@ -475,3 +475,22 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/917070
 #EXTINF:0,FR-REU - TV5 MONDE HD
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/987066
+
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/28/Rai_Sport_%282022-.n.v.%29.png/revision/latest?cb=20220608164952", IT - RAI 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/68441
+
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/28/Rai_Sport_%282022-.n.v.%29.png/revision/latest?cb=20220608164952", IT - RAI 2 UHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/68442
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/28/Rai_Sport_%282022-.n.v.%29.png/revision/latest?cb=20220608164952", IT - RAI 3 UHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/68443
+
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/28/Rai_Sport_%282022-.n.v.%29.png/revision/latest?cb=20220608164952", IT - RAI 4 UHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/68472
+
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/28/Rai_Sport_%282022-.n.v.%29.png/revision/latest?cb=20220608164952", IT - RAI 5 UHD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/68473

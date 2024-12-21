@@ -42,6 +42,10 @@ https://s.net.vn/LoidLive1
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png", LoidLive 2
 https://s.net.vn/LoidLive2
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg", CBS SPORTS NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/71938
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/NBC_logo.svg", NBC Los Angeles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 #EXTVLCOPT:network-caching=100

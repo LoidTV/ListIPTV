@@ -594,3 +594,6 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/460130
 #EXTINF:0,UK- National League 29 : 
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/460129
+
+#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1200?cb=20230813122013&path-prefix=ru", Setanta Sports 1
+http://samisat44.xyz:80/5XF88W5/A38UYQV/775625

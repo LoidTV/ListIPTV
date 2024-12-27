@@ -37,10 +37,18 @@ http://thvip.site/vtv9/index.m3u8
 #http://kblivechannel-cdn3.volam.pro:18111/live/kubolive_channel_2.stream/index.m3u8?pini=sv3.localhost.ini
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png", LoidLive
-https://s.net.vn/LoidLive1
+#https://s.net.vn/LoidLive1
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png", LoidLive 2
-https://s.net.vn/LoidLive2
+#https://s.net.vn/LoidLive2
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://github.com/LoidTV/ListIPTV/blob/main/5.jpg?raw=true", K+ Sports 1
+#EXTVLCOPT:network-caching=1000
+https://url.truyenhinh.click/k-sp1
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://github.com/LoidTV/ListIPTV/blob/main/6.jpg?raw=true", K+ Sports 2
+#EXTVLCOPT:network-caching=1000
+https://url.truyenhinh.click/k-sp2
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg", CBS SPORTS NETWORK HD
 #EXTVLCOPT:network-caching=1000

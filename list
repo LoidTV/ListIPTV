@@ -653,11 +653,5 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/348370
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/348371
 
-#EXTINF:0,TEST - FPT Play
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
-https://live-drm.fptplay.net/MTI2NDY5N3x0aGV0aGFvMTc5fHZucHR8MTczNTg2ODQzNHwxMjMuMjYuNTMuMTk1fGViZTY1Y2ZjYTM0Y2Q4YjE4NzFjMzJhZTI1Y2EyOWIz/channel/thethao179/master_25f.mpd
-
 #EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1200?cb=20230813122013&path-prefix=ru", Setanta Sports 1
 http://samisat44.xyz:80/5XF88W5/A38UYQV/775625
